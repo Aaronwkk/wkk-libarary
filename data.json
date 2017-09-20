@@ -1,0 +1,648 @@
+{
+  "data": {
+    "storeInfo": {
+      "merchants_id": "34",
+      "name": "外卖测试",
+      "full": "waimaiceshi",
+      "image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170725/merchant/20170725105337_5976b2b1a22de.jpeg",
+      "city_id": "107",
+      "area_id": "1157",
+      "area_info": "上海市世纪大道东方大厦16楼",
+      "business_hours": "",
+      "description": "5.00",
+      "serve": "5.00",
+      "logistics": "5.00",
+      "credit": "0",
+      "mobile": "15039910990",
+      "collect_num": "0",
+      "is_sale": "0",
+      "is_shelves": "1",
+      "sign": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170725/merchant/20170725105349_5976b2bde7103.jpeg",
+      "is_one_hour": "1",
+      "is_invoice": "0",
+      "delivery_fee": "5.00",
+      "min_delivery": "30.00",
+      "reduction": "50.00",
+      "city": {
+        "name": "县"
+      }
+    },
+    "goodsCategorys": [
+      {
+        "goods_merchant_category_id": "190",
+        "name": "美食",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1219",
+            "name": "麻酱荠菜虾仁馄饨",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160320_5975a9c801984.jpeg",
+            "add_time": "2017-07-24 16:03:28",
+            "comment_num": "1",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "109",
+            "detail": "麻酱荠菜虾仁馄饨",
+            "pivot": {
+              "goods_merchant_category_id": "190",
+              "goods_id": "1219"
+            }
+          },
+          {
+            "goods_id": "1218",
+            "name": "麻酱荠菜虾仁馄饨",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160248_5975a9a8d1009.jpeg",
+            "add_time": "2017-07-24 16:02:52",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "麻酱荠菜虾仁馄饨",
+            "pivot": {
+              "goods_merchant_category_id": "190",
+              "goods_id": "1218"
+            }
+          },
+          {
+            "goods_id": "1217",
+            "name": "麻酱荠菜虾仁馄饨",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160213_5975a9859d7c6.jpeg",
+            "add_time": "2017-07-24 16:02:17",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "9",
+            "detail": "麻酱荠菜虾仁馄饨",
+            "pivot": {
+              "goods_merchant_category_id": "190",
+              "goods_id": "1217"
+            }
+          },
+          {
+            "goods_id": "1216",
+            "name": "野生小黄鱼煨面",
+            "price": "1.00",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160123_5975a953baf09.jpeg",
+            "add_time": "2017-07-24 16:01:34",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "5",
+            "detail": "野生小黄鱼煨面",
+            "pivot": {
+              "goods_merchant_category_id": "190",
+              "goods_id": "1216"
+            }
+          },
+          {
+            "goods_id": "1215",
+            "name": "野生小黄鱼煨面",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160046_5975a92e4d126.jpeg",
+            "add_time": "2017-07-24 16:00:54",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "5",
+            "detail": "野生小黄鱼煨面",
+            "pivot": {
+              "goods_merchant_category_id": "190",
+              "goods_id": "1215"
+            }
+          },
+          {
+            "goods_id": "1214",
+            "name": "野生小黄鱼煨面",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160011_5975a90bb64dd.jpeg",
+            "add_time": "2017-07-24 16:00:14",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "17",
+            "detail": "野生小黄鱼煨面",
+            "pivot": {
+              "goods_merchant_category_id": "190",
+              "goods_id": "1214"
+            }
+          },
+          {
+            "goods_id": "1213",
+            "name": "炸猪排配黄牌辣酱油，原价15元，现价15元。",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724155906_5975a8cab6618.jpeg",
+            "add_time": "2017-07-24 15:59:09",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "炸猪排配黄牌辣酱油，原价15元，现价15元。",
+            "pivot": {
+              "goods_merchant_category_id": "190",
+              "goods_id": "1213"
+            }
+          },
+          {
+            "goods_id": "1239",
+            "name": "红烧肉",
+            "price": "15.00",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170725/goods/20170725103005_5976ad2dd94b2.jpeg",
+            "add_time": "2017-07-25 10:30:21",
+            "comment_num": "1",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "49",
+            "detail": "你值得拥有",
+            "pivot": {
+              "goods_merchant_category_id": "190",
+              "goods_id": "1239"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "191",
+        "name": "单人套餐",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1232",
+            "name": "麻酱荠菜虾仁馄饨",
+            "price": "0.20",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724161342_5975ac36812d8.jpeg",
+            "add_time": "2017-07-24 16:13:45",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "麻酱荠菜虾仁馄饨",
+            "pivot": {
+              "goods_merchant_category_id": "191",
+              "goods_id": "1232"
+            }
+          },
+          {
+            "goods_id": "1231",
+            "name": "葱油拌面配八宝辣酱",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724161305_5975ac11b03aa.jpeg",
+            "add_time": "2017-07-24 16:13:09",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "葱油拌面配八宝辣酱",
+            "pivot": {
+              "goods_merchant_category_id": "191",
+              "goods_id": "1231"
+            }
+          },
+          {
+            "goods_id": "1220",
+            "name": "砂锅黄鱼馄饨",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160548_5975aa5c993ef.jpeg",
+            "add_time": "2017-07-24 16:05:52",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "砂锅黄鱼馄饨",
+            "pivot": {
+              "goods_merchant_category_id": "191",
+              "goods_id": "1220"
+            }
+          },
+          {
+            "goods_id": "1239",
+            "name": "红烧肉",
+            "price": "15.00",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170725/goods/20170725103005_5976ad2dd94b2.jpeg",
+            "add_time": "2017-07-25 10:30:21",
+            "comment_num": "1",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "49",
+            "detail": "你值得拥有",
+            "pivot": {
+              "goods_merchant_category_id": "191",
+              "goods_id": "1239"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "192",
+        "name": "爽口凉菜",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1230",
+            "name": "葱油拌面配八宝辣酱",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724161235_5975abf33bbd8.jpeg",
+            "add_time": "2017-07-24 16:12:38",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "葱油拌面配八宝辣酱",
+            "pivot": {
+              "goods_merchant_category_id": "192",
+              "goods_id": "1230"
+            }
+          },
+          {
+            "goods_id": "1239",
+            "name": "红烧肉",
+            "price": "15.00",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170725/goods/20170725103005_5976ad2dd94b2.jpeg",
+            "add_time": "2017-07-25 10:30:21",
+            "comment_num": "1",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "49",
+            "detail": "你值得拥有",
+            "pivot": {
+              "goods_merchant_category_id": "192",
+              "goods_id": "1239"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "193",
+        "name": "水果",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1229",
+            "name": "葱油拌面配八宝辣酱",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724161154_5975abca37775.jpeg",
+            "add_time": "2017-07-24 16:11:56",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "葱油拌面配八宝辣酱",
+            "pivot": {
+              "goods_merchant_category_id": "193",
+              "goods_id": "1229"
+            }
+          },
+          {
+            "goods_id": "1239",
+            "name": "红烧肉",
+            "price": "15.00",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170725/goods/20170725103005_5976ad2dd94b2.jpeg",
+            "add_time": "2017-07-25 10:30:21",
+            "comment_num": "1",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "49",
+            "detail": "你值得拥有",
+            "pivot": {
+              "goods_merchant_category_id": "193",
+              "goods_id": "1239"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "201",
+        "name": "生煎",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1228",
+            "name": "葱油拌面配八宝辣酱",
+            "price": "0.50",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724161128_5975abb0dddbd.jpeg",
+            "add_time": "2017-07-24 16:11:32",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "100",
+            "detail": "葱油拌面配八宝辣酱",
+            "pivot": {
+              "goods_merchant_category_id": "201",
+              "goods_id": "1228"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "202",
+        "name": "橘子",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1227",
+            "name": "葱油拌面配八宝辣酱",
+            "price": "0.50",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724161050_5975ab8adbdd5.jpeg",
+            "add_time": "2017-07-24 16:11:04",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "20",
+            "detail": "葱油拌面配八宝辣酱",
+            "pivot": {
+              "goods_merchant_category_id": "202",
+              "goods_id": "1227"
+            }
+          },
+          {
+            "goods_id": "1226",
+            "name": "老上海菜饭配炸猪排",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724161014_5975ab66b5951.jpeg",
+            "add_time": "2017-07-24 16:10:17",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "老上海菜饭配炸猪排",
+            "pivot": {
+              "goods_merchant_category_id": "202",
+              "goods_id": "1226"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "203",
+        "name": "凉菜",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1225",
+            "name": "黄鱼春卷（根）",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160849_5975ab1145e6d.jpeg",
+            "add_time": "2017-07-24 16:08:52",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "黄鱼春卷（根）",
+            "pivot": {
+              "goods_merchant_category_id": "203",
+              "goods_id": "1225"
+            }
+          },
+          {
+            "goods_id": "1224",
+            "name": "黄鱼春卷（根）",
+            "price": "0.31",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160818_5975aaf2a7161.gif",
+            "add_time": "2017-07-24 16:08:24",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "黄鱼春卷（根）",
+            "pivot": {
+              "goods_merchant_category_id": "203",
+              "goods_id": "1224"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "204",
+        "name": "面条",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1215",
+            "name": "野生小黄鱼煨面",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160046_5975a92e4d126.jpeg",
+            "add_time": "2017-07-24 16:00:54",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "5",
+            "detail": "野生小黄鱼煨面",
+            "pivot": {
+              "goods_merchant_category_id": "204",
+              "goods_id": "1215"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "205",
+        "name": "豆浆",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1223",
+            "name": "炸猪排配黄牌辣酱油",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160734_5975aac686887.jpeg",
+            "add_time": "2017-07-24 16:07:38",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "炸猪排配黄牌辣酱油",
+            "pivot": {
+              "goods_merchant_category_id": "205",
+              "goods_id": "1223"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "206",
+        "name": "包子",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1222",
+            "name": "炸猪排配黄牌辣酱油",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160707_5975aaab31865.jpeg",
+            "add_time": "2017-07-24 16:07:11",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "炸猪排配黄牌辣酱油",
+            "pivot": {
+              "goods_merchant_category_id": "206",
+              "goods_id": "1222"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "207",
+        "name": "双人套餐",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1221",
+            "name": "砂锅黄鱼馄饨",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724160616_5975aa785ad6a.jpeg",
+            "add_time": "2017-07-24 16:06:20",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "砂锅黄鱼馄饨",
+            "pivot": {
+              "goods_merchant_category_id": "207",
+              "goods_id": "1221"
+            }
+          },
+          {
+            "goods_id": "1239",
+            "name": "红烧肉",
+            "price": "15.00",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170725/goods/20170725103005_5976ad2dd94b2.jpeg",
+            "add_time": "2017-07-25 10:30:21",
+            "comment_num": "1",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "49",
+            "detail": "你值得拥有",
+            "pivot": {
+              "goods_merchant_category_id": "207",
+              "goods_id": "1239"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "208",
+        "name": "米饭",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1233",
+            "name": "黄鱼焖饭",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724162448_5975aed05442d.jpeg",
+            "add_time": "2017-07-24 16:24:51",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "10",
+            "detail": "黄鱼焖饭",
+            "pivot": {
+              "goods_merchant_category_id": "208",
+              "goods_id": "1233"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "209",
+        "name": "豆浆油条",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1234",
+            "name": "黄鱼焖饭",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724162517_5975aeed79a8e.jpeg",
+            "add_time": "2017-07-24 16:25:19",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "9",
+            "detail": "黄鱼焖饭",
+            "pivot": {
+              "goods_merchant_category_id": "209",
+              "goods_id": "1234"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "210",
+        "name": "烤鸭",
+        "is_show": "1",
+        "goods": [
+          {
+            "goods_id": "1235",
+            "name": "黄鱼焖饭",
+            "price": "0.10",
+            "goods_image": "http://shop.img.5ihuanniu.com/modules/shop/upload/20170724/goods/20170724162545_5975af092898a.jpeg",
+            "add_time": "2017-07-24 16:25:48",
+            "comment_num": "0",
+            "sales_num": "0",
+            "high_percent": "100.00",
+            "details": "",
+            "stocks": "100",
+            "detail": "黄鱼焖饭",
+            "pivot": {
+              "goods_merchant_category_id": "210",
+              "goods_id": "1235"
+            }
+          }
+        ]
+      },
+      {
+        "goods_merchant_category_id": "211",
+        "name": "火鸡",
+        "is_show": "1",
+        "goods": []
+      },
+      {
+        "goods_merchant_category_id": "229",
+        "name": "22",
+        "is_show": "1",
+        "goods": []
+      },
+      {
+        "goods_merchant_category_id": "230",
+        "name": "test",
+        "is_show": "1",
+        "goods": []
+      },
+      {
+        "goods_merchant_category_id": "231",
+        "name": "rq3 ",
+        "is_show": "1",
+        "goods": []
+      }
+    ]
+  }
+}

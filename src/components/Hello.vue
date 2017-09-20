@@ -5,13 +5,18 @@
 </template>
 
 <script>
-import api from 'api/post.js'
+import api from 'api/data.js'
 export default {
   name: 'hello',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
     }
+  },
+  created () {
+    api.then(function (res) {
+      console.log(res)
+    })
   }
 }
 </script>
