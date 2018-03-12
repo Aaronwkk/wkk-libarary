@@ -14,7 +14,6 @@ npm run dev
 
 # build for production with minification
 npm run build
-sssaaa
 
 # build for production and view the bundle analyzer report
 sijdioajsdoijfaijsediojfoajojfsoaos
